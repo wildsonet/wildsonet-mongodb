@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
     "jars/mongo.jar",
     "lib/wildsonet-mongodb.rb",
     "test/helper.rb",
-    "test/test_wildsonet-mongodb.rb"
+    "test/test_wildsonet-mongodb.rb",
+    "wildsonet-mongodb.gemspec"
   ]
   s.homepage = %q{http://github.com/marekjelen/wildsonet-mongodb}
   s.licenses = ["MIT"]
