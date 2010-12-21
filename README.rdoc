@@ -1,6 +1,14 @@
-= wildsonet-mongodb
+= WildSoNet::MongoDB
 
-Description goes here.
+MongoDB library embeded for use with jRuby. Primarily for used in WildSoNet, but useful for any project.
+
+  MongoDB (from "humongous") is a scalable, high-performance, open source, document-oriented database.
+
+http://www.mongodb.org/
+
+== Versioning
+
+Version of the gem reflects version of embeded mongodb library.
 
 == Contributing to wildsonet-mongodb
  
@@ -14,6 +22,5 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Marek Jelen. See LICENSE.txt for
-further details.
+Copyright (c) 2010 Marek Jelen. See LICENSE.txt for further details.
 

@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "wildsonet-mongodb"
   gem.homepage = "http://github.com/marekjelen/wildsonet-mongodb"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{MongoDB library}
+  gem.description = %Q{MongoDB library packed as gem}
   gem.email = "marek@jelen.biz"
   gem.authors = ["Marek Jelen"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
